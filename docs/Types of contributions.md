@@ -1,6 +1,8 @@
 # Types of contributions :memo:
 You can contribute to the GitHub Docs content and site in several ways. This repo is a place to discuss and collaborate on docs.github.com! Our small, but mighty :muscle: docs team is maintaining this repo; to preserve our bandwidth, off topic conversations will be closed.
 
+
+
 ### :mega: Discussions
 Discussions are where we have conversations.
 
@@ -21,13 +23,3 @@ We are a small team working hard to keep up with the documentation demands of a 
 
 If you're having trouble with your GitHub account, contact [Support](https://support.github.com/contact?tags=docs-contributing-guide).
 
-### :earth_asia: Translations
-
-This website is internationalized and available in multiple languages. The source content in this repository is written in English. We automate translations through an internal process, working with professional translators to localize the English content.
-
-**We do not currently accept contributions for translated content**.
-
-### :balance_scale: Site Policy
-GitHub's site policies are published on docs.github.com, too!
-
-If you find a typo in the site policy section, you can open a pull request to fix it. For anything else, see [the CONTRIBUTING guide in the site-policy repo](https://github.com/github/site-policy/blob/main/CONTRIBUTING.md).
