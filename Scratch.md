@@ -1,14 +1,6 @@
 <!-- Improved compatibility of back to top link -->
 <a name="readme-top"></a>
 
-<!-- PROJECT LOGO 
-<br />
-<div align="center">
-  <a href="https://github.com/openresearchcollabs/midFEMA">
-    <img src="img/logo.png" alt="Logo" width="80" height="80">
-  </a>
-  -->
-
 <div align="center">
 
 # midFEMA
@@ -16,8 +8,9 @@
 [![Build Status](https://xxxxx)](https://xxxxx)
 [![Version on Hackage](https://img.shields.io/xxxx.svg)](https://xxxxx)
 
-  <p align="center">
-    Domain-specific language embedded in Haskell for programming hybrid (mixed discrete-time and continuous-time) systems. Yampa is based on the concepts of Functional Reactive Programming (FRP). This repository ("`midFEMA`") is available to everyone under the standard [MIT license](https://github.com/microsoft/vscode/blob/main/LICENSE.txt).
+Domain-specific language embedded in Haskell for programming hybrid (mixed
+discrete-time and continuous-time) systems. Yampa is based on the concepts of
+Functional Reactive Programming (FRP).
 
 [Installation](#installation) •
 [Examples](#examples) •
@@ -25,6 +18,107 @@
 [Documentation](#documentation) •
 [Contributions](#contributions) •
 [History](#history)
+
+</div>
+
+## Features
+
+- Implements Functional Reactive Programming.
+
+- Allows for dynamic programs whose structure changes over time.
+
+- Isolates of effect-free signal functions from effectful actions.
+
+- Runs fast and is memory efficient.
+
+- Has been industry tested.
+
+- Provides a robust, elegant, stable interface.
+
+- Has well-defined semantics.
+
+- Supports applicative, functional and arrowized styles.
+
+- Supports all platforms and enjoys multiple backends.
+
+- Programs can be tested with QuickCheck and debugged using Haskell Titan.
+
+## Table of Contents
+
+- [Installation](#installation)
+  - [Pre-requisites](#pre-requisites)
+  - [Compilation](#compilation)
+- [Examples](#examples)
+- [Related projects](#related-projects)
+  - [Games and applications](#games-and-applications)
+  - [Use in industry](#use-in-industry)
+  - [Backends](#backends)
+  - [Testing](#testing)
+  - [Other projects](#other-projects)
+- [Documentation](#documentation)
+  - [API documentation and tutorials](#api-documentation-and-tutorials)
+  - [Publications](#publications)
+- [Contributions](#contributions)
+  - [Discussions, issues and pull requests](#discussions-issues-and-pull-requests)
+  - [Structure and internals](#structure-and-internals)
+  - [Style](#style)
+  - [Version control](#version-control)
+  - [Versioning model](#versioning-model)
+- [History](#history)
+
+# Installation
+<sup>[(Back to top)](#table-of-contents)</sup>
+
+## Pre-requisites
+<sup>[(Back to top)](#table-of-contents)</sup>
+
+To use Yampa, you must have a Haskell compiler installed (GHC). We currently
+support all versions of GHC from 7.6.3 to modern versions (9.X series as of
+this writing).
+
+On Debian/Ubuntu, the Haskell toolchain can be installed with:
+
+```sh
+$ apt-get install ghc cabal-install
+```
+
+On Mac, they can be installed with:
+
+```sh
+$ brew install ghc cabal-install
+```
+
+## Compilation
+<sup>[(Back to top)](#table-of-contents)</sup>
+
+Once you have a working set of Haskell tools installed, install Yampa from
+[hackage](http://hackage.haskell.org/package/Yampa) by executing:
+
+```sh
+$ cabal update
+$ cabal install --lib Yampa
+```
+
+Running the following will print the word `Success` if installation has gone
+well, or show an error message otherwise:
+
+```
+$ runhaskell <<< 'import FRP.Yampa; main = putStrLn "Success"'
+```
+
+--------
+
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/openresearchcollabs/midFEMA">
+    <img src="img/logo.png" alt="Logo" width="80" height="80">
+  </a>
+
+<h3 align="center">midFEMA</h3>
+
+  <p align="center">
+    project_description
     <br />
     <a href="https://github.com/openresearchcollabs/midFEMA"><strong>Explore the docs »</strong></a>
     <br />
@@ -40,19 +134,62 @@
 [![Feature Requests](https://img.shields.io/github/issues/microsoft/vscode/feature-request.svg)](https://github.com/microsoft/vscode/issues?q=is%3Aopen+is%3Aissue+label%3Afeature-request+sort%3Areactions-%2B1-desc)
 [![Bugs](https://img.shields.io/github/issues/microsoft/vscode/bug.svg)](https://github.com/microsoft/vscode/issues?utf8=✓&q=is%3Aissue+is%3Aopen+label%3Abug)
 [![Gitter](https://img.shields.io/badge/chat-on%20gitter-yellow.svg)](https://gitter.im/Microsoft/vscode)
-[![Build Status](https://xxxxx)](https://xxxxx)
-[![Version on Hackage](https://img.shields.io/xxxx.svg)](https://xxxxx)
+
+###### tags: `xxxxx` `Github` `MID` `FEMA` `Aditional resources`
+
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+  </ol>
+</details>
+
+
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
+
+This repository ("midFEMA") is where xxxxx and the following is a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`.
+
+Additional text to perhaps include: This repository ("`midFEMA`") is where we (Microsoft) develop the [Visual Studio Code](https://code.visualstudio.com) product together with the community. Not only do we work on code and issues here, we also publish our [roadmap](https://github.com/microsoft/vscode/wiki/Roadmap), [monthly iteration plans](https://github.com/microsoft/vscode/wiki/Iteration-Plans), and our [endgame plans](https://github.com/microsoft/vscode/wiki/Running-the-Endgame). This source code is available to everyone under the standard [MIT license](https://github.com/microsoft/vscode/blob/main/LICENSE.txt).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
 
 ### Built With
 
 * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
-
-###### tags: `Github` `MID` `FEMA` `Resources`
+* [![Angular][Angular.io]][Angular-url]
+* [![Svelte][Svelte.dev]][Svelte-url]
+* [![Laravel][Laravel.com]][Laravel-url]
+* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+* [![JQuery][JQuery.com]][JQuery-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- ROADMAP -->
 ## Roadmap
 
@@ -61,56 +198,9 @@
 - [ ] Feature 3
     - [ ] Nested Feature
 
+See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## Features
-
-- Implements Functional Reactive Programming.
-
-- Allows for dynamic programs whose structure changes over time.
-
-- Isolates of effect-free signal functions.
-
-- Runs fast and is memory efficient.
-
-## Table of Contents
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Roadmap](#roadmap)
-- [Documentation](#documentation)
-  - [Tutorials](#tutorials)
-  - [Manuscript](#manuscript)
-- [Contributions](#contributions)
-  - [Discussions, issues and pull requests](#discussions-issues-and-pull-requests)
-- [License](#license)
-- [Contact](#contact )
-- [Acknowledgments](#acknowledgments)
-
-# Getting Started
-<sup>[(Back to top)](#table-of-contents)</sup>
-
-## Pre-requisites
-<sup>[(Back to top)](#table-of-contents)</sup>
-
-To use `Yampa`, you must have a Haskell compiler installed (GHC).
-
-```sh
-$ apt-get install ghc cabal-install
-```
-
-On Mac, they can be installed with:
-
-```sh
-$ brew install ghc cabal-install
-$ cabal update
-```
-
-Once you have a working set of `Haskell` tools installed, install Yampa from
-[hackage](http://hackage.haskell.org/package/Yampa) by executing:
-
-## Installation
-<sup>[(Back to top)](#table-of-contents)</sup>
 
 <!-- CONTRIBUTING -->
 ## Contributing
