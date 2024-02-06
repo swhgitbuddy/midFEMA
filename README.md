@@ -19,7 +19,8 @@
 [![Gitter](https://img.shields.io/badge/chat-on%20gitter-yellow.svg)](https://gitter.im/Microsoft/vscode)
 
   <p align="center">
-    This repository `midFEM` is xxxxx. It is available to everyone under the standard [MIT license](https://github.com/microsoft/vscode/blob/main/LICENSE.txt).
+    This repository `midFEMA` is xxxxx. It is available to everyone under the standard <a href="https://github.com/microsoft/vscode/blob/main/LICENSE.txt">MIT license</a>.
+    </p>
 
 [Installation](#installation) •
 [Documentation](#documentation) •
@@ -149,7 +150,6 @@ PROJECT SHIELDS
 * [![Vue][Vue.js]][Vue-url]
 
 <!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
 [contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
