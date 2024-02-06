@@ -15,9 +15,11 @@
 
 [![Build Status](https://xxxxx)](https://xxxxx)
 [![Version on Hackage](https://img.shields.io/xxxx.svg)](https://xxxxx)
+[![Bugs](https://img.shields.io/github/issues/microsoft/vscode/bug.svg)](https://github.com/microsoft/vscode/issues?utf8=✓&q=is%3Aissue+is%3Aopen+label%3Abug)
+[![Gitter](https://img.shields.io/badge/chat-on%20gitter-yellow.svg)](https://gitter.im/Microsoft/vscode)
 
   <p align="center">
-    Domain-specific language embedded in Haskell for programming hybrid (mixed discrete-time and continuous-time) systems. Yampa is based on the concepts of Functional Reactive Programming (FRP). This repository ("`midFEMA`") is available to everyone under the standard [MIT license](https://github.com/microsoft/vscode/blob/main/LICENSE.txt).
+    This repository `midFEM` is xxxxx. It is available to everyone under the standard [MIT license](https://github.com/microsoft/vscode/blob/main/LICENSE.txt).
 
 [Installation](#installation) •
 [Documentation](#documentation) •
@@ -25,21 +27,7 @@
 [Report Bug](#report-bug) •
     <br />
     <a href="https://github.com/openresearchcollabs/midFEMA"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
 </div>
-
-[![Feature Requests](https://img.shields.io/github/issues/microsoft/vscode/feature-request.svg)](https://github.com/microsoft/vscode/issues?q=is%3Aopen+is%3Aissue+label%3Afeature-request+sort%3Areactions-%2B1-desc)
-[![Bugs](https://img.shields.io/github/issues/microsoft/vscode/bug.svg)](https://github.com/microsoft/vscode/issues?utf8=✓&q=is%3Aissue+is%3Aopen+label%3Abug)
-[![Gitter](https://img.shields.io/badge/chat-on%20gitter-yellow.svg)](https://gitter.im/Microsoft/vscode)
-[![Build Status](https://xxxxx)](https://xxxxx)
-[![Version on Hackage](https://img.shields.io/xxxx.svg)](https://xxxxx)
-
-### Built With
-
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
 
 ###### tags: `Github` `MID` `FEMA` `Resources`
 
@@ -59,7 +47,6 @@
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Roadmap](#roadmap)
 - [Documentation](#documentation)
   - [Tutorials](#tutorials)
   - [Manuscript](#manuscript)
@@ -154,6 +141,12 @@ PROJECT SHIELDS
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
+
+### Built With
+
+* [![Next][Next.js]][Next-url]
+* [![React][React.js]][React-url]
+* [![Vue][Vue.js]][Vue-url]
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
