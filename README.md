@@ -1,13 +1,13 @@
 <!-- Improved compatibility of back to top link -->
 <a name="readme-top"></a>
 
-<!-- PROJECT LOGO 
+<!-- PROJECT LOGO  -->
 <br />
 <div align="center">
   <a href="https://github.com/openresearchcollabs/midFEMA">
-    <img src="img/logo.png" alt="Logo" width="80" height="80">
+    <img src="img/logo.jpg" alt="Logo" width="80" height="80">
   </a>
-  -->
+ 
 
 <div align="center">
 
@@ -29,6 +29,8 @@
 </div>
 
 ###### tags: `Longitudinal` `fMRI` `DBD` `FEMA` `MID` 
+
+</div>
 
 ## Features
 
@@ -55,7 +57,7 @@
 - [Contact](#contact )
 - [Acknowledgments](#acknowledgments)
 
-# Getting Started (#getting-started)
+# Getting Started
 <sup>[(Back to top)](#table-of-contents)</sup>
 
 ## Pre-requisites
