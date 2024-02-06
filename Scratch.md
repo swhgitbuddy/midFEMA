@@ -1,3 +1,8 @@
+
+The <strong>midFEMA</strong> project will examine neurodevelopmental biomarkers of severe behavioral and emotional problems using Fast and Efficient Mixed‐Effects Analysis (FEMA) to quantify voxelwise task-based reward activation across the brain during a Monetary Incentive Delay (MID) fMRI paradigm in a large and prospectively followed sample (n ~ 9000) of youth from the Adolescent Brain and Cognitive Development (ABCD) study, aged approaimately 9–16 years.
+
+-----------
+
 <!-- Improved compatibility of back to top link -->
 <a name="readme-top"></a>
 

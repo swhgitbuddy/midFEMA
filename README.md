@@ -13,16 +13,14 @@
 
 # midFEMA
 
-[![Build Status](https://xxxxx)](https://xxxxx)
-[![Version on Hackage](https://img.shields.io/xxxx.svg)](https://xxxxx)
+[![Version on Hackage](https://img.shields.io/badge/any_text-you_like-blue)](https://xxxxx)
 [![Bugs](https://img.shields.io/github/issues/microsoft/vscode/bug.svg)](https://github.com/microsoft/vscode/issues?utf8=✓&q=is%3Aissue+is%3Aopen+label%3Abug)
-[![Gitter](https://img.shields.io/badge/chat-on%20gitter-yellow.svg)](https://gitter.im/Microsoft/vscode)
+[![Slack](https://img.shields.io/badge/chat-on%20gitter-yellow.svg)](https://gitter.im/Microsoft/vscode)
 
   <p align="center">
-    This repository `midFEMA` is xxxxx. It is available to everyone under the standard <a href="https://github.com/microsoft/vscode/blob/main/LICENSE.txt">MIT license</a>.
+  The <strong>midFEMA</strong> project will examine neurodevelopmental biomarkers of severe behavioral and emotional problems using Fast and Efficient Mixed‐Effects Analysis (FEMA) to quantify voxelwise task-based reward activation across the brain during a Monetary Incentive Delay (MID) fMRI paradigm in a large and prospectively followed sample (n ~ 9000) of youth from the Adolescent Brain and Cognitive Development (ABCD) study, aged approaimately 9–16 years.This repository is available to everyone under the standard <a href="https://github.com/microsoft/vscode/blob/main/LICENSE.txt">MIT license</a>.
     </p>
 
-[Installation](#installation) •
 [Documentation](#documentation) •
 [Contributions](#contributions) •
 [Report Bug](#report-bug) •
@@ -30,19 +28,19 @@
     <a href="https://github.com/openresearchcollabs/midFEMA"><strong>Explore the docs »</strong></a>
 </div>
 
-###### tags: `Github` `MID` `FEMA` `Resources`
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+###### tags: `Longitudinal` `fMRI` `DBD` `FEMA` `MID` 
 
 ## Features
 
-- Implements Functional Reactive Programming.
+- Identification of biomarkers.
 
-- Allows for dynamic programs whose structure changes over time.
+- Longitudinal Neuroimaging.
 
-- Isolates of effect-free signal functions.
+- Pre-built dev environment/containers.
 
-- Runs fast and is memory efficient.
+- Github Templates and project documentation.
+
+- Open Source.
 
 ## Table of Contents
 - [Getting Started](#getting-started)
@@ -52,12 +50,12 @@
   - [Tutorials](#tutorials)
   - [Manuscript](#manuscript)
 - [Contributions](#contributions)
-  - [Discussions, issues and pull requests](#discussions-issues-and-pull-requests)
+  - [Discussions, Issues and Pull Requests](#discussions-issues-and-pull-requests)
 - [License](#license)
 - [Contact](#contact )
 - [Acknowledgments](#acknowledgments)
 
-# Getting Started
+# Getting Started (#getting-started)
 <sup>[(Back to top)](#table-of-contents)</sup>
 
 ## Pre-requisites
@@ -82,12 +80,22 @@ Once you have a working set of `Haskell` tools installed, install Yampa from
 ## Installation
 <sup>[(Back to top)](#table-of-contents)</sup>
 
-## Contributing
+# Documentation
+<sup>[(Back to top)](#table-of-contents)</sup>
+
+## Tutorials
+<sup>[(Back to top)](#table-of-contents)</sup>
+
+## Manuscript
+<sup>[(Back to top)](#table-of-contents)</sup>
+
+# Contributions
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
+
+## Discussions, Issues and Pull Requests 
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
@@ -103,6 +111,8 @@ please see the document [How to Contribute](https://github.com/microsoft/vscode/
 * [The development workflow](https://github.com/microsoft/vscode/wiki/How-to-Contribute#debugging)
 * [Submitting pull requests](https://github.com/microsoft/vscode/wiki/How-to-Contribute#pull-requests)
 * [Finding an issue to work on](https://github.com/microsoft/vscode/wiki/How-to-Contribute#where-to-contribute)
+
+
 
 ## Feedback
 
@@ -160,25 +170,12 @@ PROJECT SHIELDS
 [issues-url]: https://github.com/github_username/repo_name/issues
 [license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
 [license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
-[product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
 [Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
 [Vue-url]: https://vuejs.org/
-[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-[Angular-url]: https://angular.io/
-[Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
-[Svelte-url]: https://svelte.dev/
-[Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
-[Laravel-url]: https://laravel.com
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[Bootstrap-url]: https://getbootstrap.com
-[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com 
 
 
 
